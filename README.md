@@ -34,7 +34,7 @@ Mục tiêu của đề tài là thiết kế và chế tạo một robot 2 châ
   - Thiết lập vị trí ban đầu
   - Di chuyển thẳng
   - Nhún người, cúi chào...
-- Dữ liệu từ MPU6050 được đọc để điều chỉnh giữ cân bằng
+
 
 ## ✅ Kết quả
 
