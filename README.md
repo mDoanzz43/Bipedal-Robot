@@ -2,7 +2,7 @@
 
 ## 📌 Giới thiệu
 
-Đây là bài tập lớn cuối kỳ của cá nhân bản thân
+Đây là bài tập lớn cuối kỳ của cá nhân bản thân.
 Mục tiêu của đề tài là thiết kế và chế tạo một robot 2 chân có khả năng đứng thẳng và thực hiện các cử động cơ bản như bước đi, nhún người, cúi chào... qua việc sử dụng các cơ cấu chấp hành và vi điều khiển
 
 ## 🧠 Ý tưởng thiết kế
